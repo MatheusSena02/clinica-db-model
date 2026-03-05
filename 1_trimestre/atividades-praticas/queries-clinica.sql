@@ -1,4 +1,4 @@
---Histórico de FaltAS--
+--Histórico de Faltas--
 SELECT paciente_id, nome, agendada_em, status 
 FROM agendamento_cONsulta AS ac
 INNER JOIN paciente AS p 
